@@ -15,5 +15,10 @@ MEthodology:
 
 Simulations using Crank-nicolson methods. finite difference method as described in Adam Smith 2007.
 
+
+
+RESULTS:
+1. the kinetic results have been found.
+
 Conclusions:
 Conclusions splendid.
