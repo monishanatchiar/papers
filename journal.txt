@@ -10,3 +10,7 @@ the oxidation kinetics of uranium in air has been studied using finite differenc
 
 Adding second reference to intro J Bloggs 
 
+
+MEthodology:
+
+Simulations using Crank-nicolson methods. finite difference method as described in Adam Smith 2007.
