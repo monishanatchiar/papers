@@ -4,5 +4,7 @@ date: 9th May, 2017
 Title: Oxidation kintetics of uranium-oxide reaction
 
 Introduction:
-the oxidation kinetics of uranium in air has been studied using finite difference schemes. 
+the oxidation kinetics of uranium in air has been studied using finite difference schemes.
+
+Adding second reference to intro J Bloggs 
 
