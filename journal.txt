@@ -14,3 +14,6 @@ Adding second reference to intro J Bloggs
 MEthodology:
 
 Simulations using Crank-nicolson methods. finite difference method as described in Adam Smith 2007.
+
+Conclusions:
+Conclusions splendid.
