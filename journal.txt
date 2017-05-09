@@ -1,5 +1,7 @@
 author: Monisha
 date: 9th May, 2017
+second author: Rich
+
 
 Title: Oxidation kintetics of uranium-oxide reaction
 
